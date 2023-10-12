@@ -1,7 +1,7 @@
 version : "3.3"
 services:
   web:
-    image : mohamed1780/app-node:${BUILD_NUMBER}
+    image : liyahhhhhh/app-js:${BUILD_NUMBER}
     ports:
       - "8001:8000"
   db:
